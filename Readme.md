@@ -36,7 +36,7 @@
 
 ## 二进制
 
-二进制相关的资料请参考[binary](https://github.com/ahao-henrry/java-learning/blob/master/java-learning/src/com/ahao/java/binary/Binary.md)
+二进制相关的资料请参考[binary](https://github.com/ahao-henrry/java-learning/blob/master/src/com/ahao/java/binary/Binary.md)
 
 ## 集合、泛型、异常
 
